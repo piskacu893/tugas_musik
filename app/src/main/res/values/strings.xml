@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+
+        <string name="play_button">Play Music</string>
+        <string name="stop_button">Stop Music</string>
+
+
+</resources>
